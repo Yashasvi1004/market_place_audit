@@ -1,4 +1,4 @@
-# Healthcare Database Management & SQL Analytics Project
+# Healthcare Business Intelligence -  Patient Clinical and Financial Analysis
 
 A healthcare data management and analytics project built using Python, MySQL, SQLAlchemy, and Power BI.
 
