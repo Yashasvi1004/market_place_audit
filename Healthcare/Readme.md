@@ -58,7 +58,6 @@ The Python notebook performs:
 
 - MySQL database connection
 - Automatic CSV file detection
-- Data cleaning
 - Column name standardization
 - NULL value handling
 - Automated table creation in MySQL
